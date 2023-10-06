@@ -7,3 +7,7 @@ Here a code
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Headers
+- [x] Images
+- [x] code
+- [ ] Lists
